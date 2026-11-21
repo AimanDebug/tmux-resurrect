@@ -4,6 +4,14 @@
 
 Restore `tmux` environment after system restart.
 
+## Notes on the fork
+
+This fork adds:
+
+- persistence.nvim support (thanks to [GeloCraft](github.com/gelocraft))
+
+## Original
+
 Tmux is great, except when you have to restart the computer. You lose all the
 running programs, working directories, pane layouts etc.
 There are helpful management tools out there, but they require initial
